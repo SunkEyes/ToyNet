@@ -1,1 +1,2 @@
-读我读我
+[aaaa](www.baidu.com)
+(baidu)[www.baidu.com]
